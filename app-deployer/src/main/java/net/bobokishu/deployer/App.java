@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication(scanBasePackages = {
 		"net.bobokishu.parentmodule",
-		"net.bobokishu.module01",
-		"net.bobokishu.module02"
+		"net.bobokishu.rest",
+		"net.bobokishu.graphql"
 })
 public class App {
 
