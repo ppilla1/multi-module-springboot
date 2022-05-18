@@ -1,0 +1,9 @@
+spring:
+    playground:
+      enabled: true
+logging:
+  level:
+    web: DEBUG
+    org:
+      springframework:
+        web: DEBUG

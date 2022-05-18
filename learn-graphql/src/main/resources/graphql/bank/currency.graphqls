@@ -1,0 +1,7 @@
+# Set of basic supported currencies
+enum Currency {
+    INR
+    GBP
+    USD
+    SGD
+}
